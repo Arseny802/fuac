@@ -1,0 +1,12 @@
+[requires]
+mlpack/4.4.0
+fmt/10.0.0
+spdlog/1.11.0
+gtest/1.13.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout

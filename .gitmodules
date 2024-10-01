@@ -1,0 +1,9 @@
+[submodule "3rd_party/build_tools"]
+	path = 3rd_party/build_tools
+	url = https://github.com/Arseny802/build_tools
+[submodule "3rd_party/hare"]
+	path = 3rd_party/hare
+	url = https://github.com/Arseny802/hare
+[submodule "deps/hare"]
+	path = deps/hare
+	url = https://github.com/Arseny802/hare.git
