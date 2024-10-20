@@ -7,3 +7,4 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(fuac src/main.cpp)
 
 add_subdirectory(deps)
+
